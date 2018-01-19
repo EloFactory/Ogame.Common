@@ -1,0 +1,5 @@
+C:\Users\LuNiCoP\Documents\Visual Studio 2017\Projects\TestOgameLogin\Ogame.Common\bin\Debug\Ogame.Common.dll
+C:\Users\LuNiCoP\Documents\Visual Studio 2017\Projects\TestOgameLogin\Ogame.Common\bin\Debug\Ogame.Common.pdb
+C:\Users\LuNiCoP\Documents\Visual Studio 2017\Projects\TestOgameLogin\Ogame.Common\obj\Debug\Ogame.Common.csproj.CoreCompileInputs.cache
+C:\Users\LuNiCoP\Documents\Visual Studio 2017\Projects\TestOgameLogin\Ogame.Common\obj\Debug\Ogame.Common.dll
+C:\Users\LuNiCoP\Documents\Visual Studio 2017\Projects\TestOgameLogin\Ogame.Common\obj\Debug\Ogame.Common.pdb
